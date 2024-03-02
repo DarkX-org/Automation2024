@@ -36,5 +36,7 @@ public class ABC
 		File trg=new File("C:\\Users\\Admin\\eclipse-workspace\\HybridFramework_2024\\Screenshots\\akashNNN.png");
 		FileUtils.copyFile(src, trg);
 		driver.quit();
+		
+		
 	}
 }

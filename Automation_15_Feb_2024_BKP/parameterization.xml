@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<parameter name="urL" value="https://opensource-demo.orangehrmlive.com"/>
+	
+	
+	
+  <test  name="Test">
+	  <classes>
+		  <class name="com.fss.OrangeHRM.DataProviderReTest">
+			  <methods>
+				  <include name="Test1"/>
+			  </methods>
+		  </class>
+	  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

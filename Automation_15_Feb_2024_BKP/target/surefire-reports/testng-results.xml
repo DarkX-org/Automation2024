@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-18T10:38:31 IST" name="Surefire suite" finished-at="2024-02-18T10:39:01 IST" duration-ms="29713">
+    <groups>
+    </groups>
+    <test started-at="2024-02-18T10:38:31 IST" name="Surefire test" finished-at="2024-02-18T10:39:01 IST" duration-ms="29713">
+      <class name="Omayo_Blogspot.DropDownTest">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:Omayo_Blogspot.DropDownTest@3b2cf7ab]" started-at="2024-02-18T10:38:31 IST" name="LaunchBrowser" finished-at="2024-02-18T10:38:38 IST" duration-ms="7574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="DropDownTest1()[pri:0, instance:Omayo_Blogspot.DropDownTest@3b2cf7ab]" started-at="2024-02-18T10:38:38 IST" name="DropDownTest1" finished-at="2024-02-18T10:38:41 IST" duration-ms="2234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DropDownTest1 -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:Omayo_Blogspot.DropDownTest@3b2cf7ab]" started-at="2024-02-18T10:38:41 IST" name="CloseBrowser" finished-at="2024-02-18T10:38:43 IST" duration-ms="2141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:Omayo_Blogspot.DropDownTest@3b2cf7ab]" started-at="2024-02-18T10:38:43 IST" name="LaunchBrowser" finished-at="2024-02-18T10:38:47 IST" duration-ms="4096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="DropDownTest2()[pri:0, instance:Omayo_Blogspot.DropDownTest@3b2cf7ab]" started-at="2024-02-18T10:38:47 IST" name="DropDownTest2" finished-at="2024-02-18T10:38:47 IST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DropDownTest2 -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:Omayo_Blogspot.DropDownTest@3b2cf7ab]" started-at="2024-02-18T10:38:47 IST" name="CloseBrowser" finished-at="2024-02-18T10:38:49 IST" duration-ms="2140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- Omayo_Blogspot.DropDownTest -->
+      <class name="Omayo_Blogspot.MultiSelectionBoxTest">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:Omayo_Blogspot.MultiSelectionBoxTest@79ad8b2f]" started-at="2024-02-18T10:38:49 IST" name="LaunchBrowser" finished-at="2024-02-18T10:38:58 IST" duration-ms="9127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="Test1()[pri:0, instance:Omayo_Blogspot.MultiSelectionBoxTest@79ad8b2f]" started-at="2024-02-18T10:38:58 IST" name="Test1" finished-at="2024-02-18T10:38:58 IST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:Omayo_Blogspot.MultiSelectionBoxTest@79ad8b2f]" started-at="2024-02-18T10:38:58 IST" name="CloseBrowser" finished-at="2024-02-18T10:39:01 IST" duration-ms="2119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- Omayo_Blogspot.MultiSelectionBoxTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
